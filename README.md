@@ -5,30 +5,26 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
-### Screenshot
+- This is a simple HTML and CSS Project.
+- It is a card which has QR code that leads to [Frontend Mentor](https://www.frontendmentor.io/) along with some text.
 
-![](my-solution-desktop.png)
+## Screenshot
 
-### Links
+![](solution-screenshots/my-solution-desktop.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+## Links
 
-## My process
+- Solution URL: [GitHub Repo](https://github.com/AmmarMKamel/qr-code-component)
+- Live Site URL: [QR Code Component](https://ammarmkamel.github.io/qr-code-component/)
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -37,6 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [AmmarMKamel](https://github.com/AmmarMKamel)
+- Frontend Mentor - [@AmmarMKamel](https://www.frontendmentor.io/profile/AmmarMKamel)
+- Linkedin - [Ammar Kamel](https://www.linkedin.com/in/ammar-kamel-872422246/)
